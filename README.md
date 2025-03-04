@@ -1,5 +1,5 @@
 # Capstone
-Masters Degree Capston
+Masters Degree Capstone
 
 Creating a Data Dashboard with a Predictive AI model with synthetic data to show the comapny that they need to develop and implament a data plan.
 
